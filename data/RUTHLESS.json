@@ -1,0 +1,17 @@
+{
+    "id": 85612571,
+    "name": "RUTHLESS",
+    "author": "Surjaco",
+    "creators": [],
+    "verifier": "vaen",
+    "verification": "https://youtu.be/9jwVeYtc6H4",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Bamvie",
+            "link": "https://youtu.be/MOgjnaRYv2I",
+            "percent": 100,
+            "hz": 360
+        }  
+    ]
+}
