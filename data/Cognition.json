@@ -1,0 +1,23 @@
+{
+    "id": 57600307,
+    "name": "Cognition",
+    "author": "EndLevel",
+    "creators": [],
+    "verifier": "nSwish",
+    "verification": "https://www.youtube.com/watch?v=IzGJ70xnByE",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Netermind",
+            "link": "https://www.youtube.com/watch?v=IzGJ70xnByE",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "RevueGD",
+            "link": "https://www.youtube.com/watch?v=jVDM49tEeSk",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
