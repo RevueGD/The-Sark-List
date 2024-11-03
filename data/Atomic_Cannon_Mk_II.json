@@ -1,0 +1,17 @@
+{
+    "id": 91180835,
+    "name": "Atomic Cannon Mk II",
+    "author": "Lieb",
+    "creators": [],
+    "verifier": "Zeronium",
+    "verification": "https://www.youtube.com/watch?v=4-lOnZsfhNQ",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Netermind",
+            "link": "https://www.youtube.com/watch?v=TRo2iD2A1uI",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
