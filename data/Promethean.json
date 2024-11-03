@@ -1,0 +1,17 @@
+{
+    "id": 69333212, 
+    "name": "Promethean",
+    "author": "EndLevel",
+    "creators": [],
+    "verifier": "RicoLP",
+    "verification": "https://www.youtube.com/watch?v=Y3Vul7XIYog",
+    "percentToQualify": 85,
+    "records": [
+        {
+            "user": "Netermind",
+            "link": "https://www.youtube.com/watch?v=Y3Vul7XIYog",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
