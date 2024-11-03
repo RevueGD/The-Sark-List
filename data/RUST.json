@@ -1,0 +1,17 @@
+{
+    "id": 71912451,
+    "name": "RUST",
+    "author": "neigefeu",
+    "creators": [],
+    "verifier": "Kier",
+    "verification": "https://youtu.be/8RFHFBS0jXo",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Netermind",
+            "link": "https://youtu.be/8RFHFBS0jXo",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
