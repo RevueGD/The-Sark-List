@@ -18,6 +18,12 @@
             "link": "https://www.youtube.com/watch?v=W1ilNPvATp8",
             "percent": 100,
             "hz": 360
-        }   
+        },
+        {
+            "user": "Bamvie",
+            "link": "https://www.youtube.com/watch?v=o2BXT1k3i74",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
