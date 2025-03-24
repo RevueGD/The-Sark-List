@@ -1,0 +1,17 @@
+{
+    "id": 93091893,
+    "name": "Deimos",
+    "author": "ItsHybrid",
+    "creators": [],
+    "verifier": "Doggie",
+    "verification": "https://www.youtube.com/watch?v=b2yHaIk5zio&t=3s",
+    "percentToQualify": 100,
+    "records": [
+    {
+            "user": "Netermind",
+            "link": "https://www.youtube.com/watch?v=HFOcH59P8Tc&t=2s",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}
