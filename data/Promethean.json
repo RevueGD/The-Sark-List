@@ -12,6 +12,12 @@
             "link": "https://www.youtube.com/watch?v=Y3Vul7XIYog",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "RevueGD",
+            "link": "https://www.youtube.com/watch?v=1m6H5s4S3SU",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
