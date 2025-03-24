@@ -1,0 +1,17 @@
+{
+    "id": 93917362,
+    "name": "Delta",
+    "author": "Drakosa",
+    "creators": [],
+    "verifier": "Doggie",
+    "verification": "https://www.youtube.com/watch?v=_rr3J8DkIm4",
+    "percentToQualify": 100,
+    "records": [
+    {
+            "user": "skyy",
+            "link": "https://www.youtube.com/watch?v=amIkno91Af0",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
