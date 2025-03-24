@@ -1,0 +1,17 @@
+{
+    "id": 109947627,
+    "name": "BPATA MPAKA",
+    "author": "Inex",
+    "creators": [],
+    "verifier": "maybee",
+    "verification": "https://www.youtube.com/watch?v=sSbHYzYgYfA",
+    "percentToQualify": 100,
+    "records": [
+    {
+            "user": "Netermind",
+            "link": "https://www.youtube.com/watch?v=Z8yJiWwRq50",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}
