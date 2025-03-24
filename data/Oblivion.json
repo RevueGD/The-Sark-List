@@ -7,10 +7,34 @@
     "verification": "https://www.youtube.com/watch?v=ZcmDAm50BB0",
     "percentToQualify": 72,
     "records": [
-    {
+        {
             "user": "Netermind",
             "link": "https://www.youtube.com/watch?v=1SWzLTP6sT4",
             "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Itz Mike",
+            "link": "https://www.youtube.com/watch?v=VfUFzjMA9Ns",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Timy",
+            "link": "https://www.youtube.com/watch?v=24CPG2QJh1g",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "KingKain",
+            "link": "https://www.youtube.com/watch?v=Oh3EExAxs_0",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "skyy",
+            "link": "https://www.youtube.com/watch?v=0wPq3uuevss",
+            "percent": 76,
             "hz": 360
         }
     ]
