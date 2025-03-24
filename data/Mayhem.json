@@ -1,0 +1,17 @@
+{
+    "id": 82544060,
+    "name": "Mayhem",
+    "author": "LordVaderCraft",
+    "creators": [],
+    "verifier": "LordVaderCraft",
+    "verification": "https://www.youtube.com/watch?v=ND--Ai4XVfM",
+    "percentToQualify": 100,
+    "records": [
+    {
+            "user": "Netermind",
+            "link": "https://www.youtube.com/watch?v=U6e6DD32noM",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
