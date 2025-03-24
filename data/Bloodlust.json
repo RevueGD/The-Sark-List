@@ -1,0 +1,17 @@
+{
+    "id": 42584142,
+    "name": "Bloodlust",
+    "author": "Knobbelboy",
+    "creators": [],
+    "verifier": "Knobbelboy",
+    "verification": "https://www.youtube.com/watch?v=5SzKetF2btw&t=1s",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Netermind",
+            "link": "https://www.youtube.com/watch?v=cdvf8UwDob0",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
